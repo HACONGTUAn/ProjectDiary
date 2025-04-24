@@ -1,0 +1,16 @@
++Bộ đếm thời gian ở ngoài Button 
+ - Bộ đếm thời gian bên ngoài đang lấy giá trị như thế nào ?
+ - Đặt ở EventMissionCotroller
+ - Ghép Ui
++Bô đếm thời gian trong MissionController
++Thông báo khi 1 task hoàn thành ở ngoài main Popup
+ - Show popUp từ trên xuống
+ - Biết được đó là task nào, Statge nào , Item nào ,Số lượng bao nhiêu
+ - visual thanh Scroll KHi đầy 
+ - vị trí Fx trên Popup
++Visual Box 
+ - Khi hoàn thành task Nhả khỏi 
+ - tut xuống ,lỗi UI khi thụt xuông bị đè lên nền 
+	có thể sử lý bằng cách đặt một UI nền đè lên 
+ - mở nắp 
+ - Item bay lên Mờ dần rồi biến mất 

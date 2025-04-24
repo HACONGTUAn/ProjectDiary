@@ -1,0 +1,14 @@
++Gửi data ra ngoài MainHome
++Hoàn thành tut cho game 
++THông báo khi có task hoàn thành 
+
+phương pháp test thử để hiểu hoạt động , thay vì chỉ đọc code thông thương
+cho phép kiểm thử chức năng hoạt động của hàm , của chương trình nhanh hơn
+thay vì ngồi suy đoán liệu nó có đúng như mình nghĩ không
+Việc sử dụng RectTranform có vẻ chưa thành thạo 
+với việc đa màn hình 
+
+Sử lý show popup hiện lên nếu đủ đk nhận task sẽ được gọi thông
+qua hàm ShowPopup 
+
+

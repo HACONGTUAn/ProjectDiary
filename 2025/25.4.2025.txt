@@ -1,0 +1,7 @@
+Hoàn Thành Visual MiniBox
+ - box di chuyen xuong 
+ - box mo nap nha Icon ra
+Fix show popup thông báo bên ngoài main
+Hoàn thành visual MainBox
+Fix lỗi thông báo ở Button 
+ -cập nhật lại Main khi tắt popUp

@@ -1,0 +1,14 @@
+1.Fix màn hình show popup nhật main Box (1.5) (2 thoi gian thuc)
+ -Đọc và tìm hiểu logic Hoạt động của popup 
+     + thay hộp khác như nào 
+     + thay diễn visual như nào ảnh hưởng đến code khác không
+     + Test ngay với hàm
+ (0.5)
+ -Hộp Không đồng bộ  
+ -Không có bg ở sau 
+ -Chưa có Claim Text 
+ -Hiệu ứng hộp nhảy ra bị sai  (Done)
+2.Fix lỗi thông báo khi claim trong Mission nhưng ra ngoài vẫn hiện thông báo(0.5)
+ - xem lai luong hoat dong cua popup (Done 1 ) 
+3.Fix Visual miniBox hạ xuống (0.5) (Done 5 phut)
+4.Fix Visual item Open MiniBox (1)(1.9)(Done)

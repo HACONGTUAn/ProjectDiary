@@ -1,0 +1,4 @@
+Ý tưởng : Phần mềm giúp soạn thảo đề nhanh hơn 
+Ném các đề vào : cho phép lọc ra các câu hỏi trắc nghiệm và tự luận 
+chọn trong đó ra các câu hỏi trắc nghiệm và tự luận cho 1 đề tạo được form đề luôn thì 
+càng tốt

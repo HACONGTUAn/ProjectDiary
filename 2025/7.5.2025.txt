@@ -1,0 +1,16 @@
+- lỗi AdCanvasHelper không hiển thị trong mini Game
+ thêm các thư viện Gasme và Atverty 
+- Lỗi khi build khi thêm 2 thư viện mới 
+ có 1 vài file trong thư viện gây Duplicat
+- Biết thêm về các build trong game 
+ file json config chứa id ads và các biến cho SymBol
+
+* nhận ra là mình chưa hiểu toàn bộ hệ thống
+chưa hiểu tại sao lại có các file json kia 
+chưa kiểu SKD đang hoạt động 
+chưa hiểu việc thêm thư viện này sẽ mang tác dụng gì 
+chưa biết lỗi phát sinh từ đâu tại sao dù chỉ là lỗi Duplicast nhưng 
+vẫn chưa biết tại sao 
+=> do chưa nắm rõ toàn bộ hoạt động của project khi thêm ads 
+hay chưa nắm rõ SKD đang làm những gì , và hoạt động của nó 
+Chưa nắm rõ khi build cần những điều kiện j để có thể show ads

@@ -1,0 +1,3 @@
+- thêm ads vào win/ lose
+- thêm ads native vào các miniGame 
+- thêm Loading vào minigame

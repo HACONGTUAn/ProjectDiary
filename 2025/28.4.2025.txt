@@ -1,0 +1,4 @@
+- Lên Estimate cho game 456
+- log fireBase cho game 
+- build test và đẩy 1 bản lên chợ 
+- làm thử nghiệm game desktop pet và tạo bản apk điện thoại

@@ -1,0 +1,4 @@
+- giảm bớt Bot trong Hide And Seek (Done)
+- Chỉnh Cam của Run 5 cho to hơn (Done)
+- Chỉnh CutCandy vào giữa (no Done)
+- tạo config fire Base Show AdsRect cho game (Done)

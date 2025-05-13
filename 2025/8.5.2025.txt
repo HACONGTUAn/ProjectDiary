@@ -1,0 +1,9 @@
+-Thêm ads vào loading 
+-Thêm ads vào các miniGame Có thể 
+ màn home 
+ shooting Battel
+ Hide And Seek
+-Build test trước với PO
+-Thiết kế lại Ads cho đẹp mắt 
+-chỉnh sửa Ads mới 
+-Build Test đầu h Chiều

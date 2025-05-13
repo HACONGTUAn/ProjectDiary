@@ -1,3 +1,4 @@
+-fix được lỗi ads bị đè
 - lỗi AdCanvasHelper không hiển thị trong mini Game
  thêm các thư viện Gasme và Atverty 
 - Lỗi khi build khi thêm 2 thư viện mới 

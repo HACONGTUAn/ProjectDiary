@@ -1,0 +1,7 @@
+fig bug
+-ads gasme ở home chính trắng xóa (Done)
+-ads native trong list game k click được (Done)
+-out ra home nhanh thì popup lose ở màn hình home luôn (Done)
+-collap show 2 lần liên tiếp phải tắt 2 lần mới hết (Done)
+-loading k lên native
+
